@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> findCommon(Node* root1, Node* root2) {
+        // code 
         vector<int> list;
         stack<Node*> s1;
         stack<Node*> s2;
