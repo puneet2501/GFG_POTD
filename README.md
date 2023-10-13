@@ -1,3 +1,4 @@
 # GFG_POTD
-#Leetcode problem solutions soon...
-coding problem solutions with comments
+#For detailed explanation
+#visit @puneetkumariiitd
+
